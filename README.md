@@ -1,7 +1,5 @@
 # ChatBot with Sentiment Analysis and Music Recommendation
 
-## Standard-Readme Compliant
-
 A chatbot application integrated with sentiment analysis and a music recommendation system.
 
 ## Table of Contents
